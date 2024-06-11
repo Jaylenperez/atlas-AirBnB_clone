@@ -9,8 +9,8 @@ header {
 }
 
 header .logo {
-    width: 40px; /* Example size, you can adjust accordingly */
-    height: 40px; /* Example size, you can adjust accordingly */
+    width: 120px; /* Example size, you can adjust accordingly */
+    height: 120px; /* Example size, you can adjust accordingly */
     background-image: url('../images/logo.png');
     background-size: contain;
     background-repeat: no-repeat;
